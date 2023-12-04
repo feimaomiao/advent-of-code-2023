@@ -1,5 +1,7 @@
 import typing
 import re
+    """I give up documenting this
+    """
 
 data = list(open("input.txt").readlines())
 symbolist = "1234567890..\n"
