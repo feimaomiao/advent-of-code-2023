@@ -1,6 +1,5 @@
 from tools import *
 from sys import argv
-from lzl import lzlist
 import shapely
 
 
